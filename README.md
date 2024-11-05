@@ -31,7 +31,7 @@
   
   <h2>📸 Images</h2>
   <p>Here’s a preview of GestureGPT in action:</p>
-  <img src="path/to/your/example-image.png" alt="Example Prediction">
+  <img src="https://repository-images.githubusercontent.com/348140412/5e4e0980-902e-11eb-9b64-7853a6f83fad">
   
   <h2>🚀 Usage</h2>
   <ol>
